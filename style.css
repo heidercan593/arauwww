@@ -1,0 +1,23 @@
+body {
+    background-color: #f3d7d7;
+}
+
+
+audio { 
+    align-items: center;
+    width: 600px; 
+    box-shadow: 5px 5px 20px rgba(0,0, 0, 0.4);
+    border-radius: 90px;
+    transform: scale(1.05);
+  }
+audio {
+    height: 89px;
+    background-color: #ef9ab3;
+    margin-right: 10%;
+    padding: 5%;
+    width: 300px;
+ }
+
+ h1 {
+    color: #b273d9;
+ }
